@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 	
 	while(nc != 999){
 		
-		//printf("Digite o valor de carros: \n");
+		//printf("Digite o número de carros: \n");
 		scanf("%d", &nc);
 		
 		if(nc > 2){
